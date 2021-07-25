@@ -998,4 +998,71 @@ grid-row:20/28;
            margin-left: 70px;
        }
     }
-   
+    @media (max-width: 400px) { 
+       
+        .about{
+            margin-left: 0px;
+            width: 140%;
+            
+        }
+        .data{
+            margin-left:60px;
+            /* width: 190%; */
+            height: 70vh;   
+        }
+        .data p{
+            font-size:18px;
+           margin-left: 3px;
+        }
+        .foot{
+            width: 135%;
+            height: 7vh;
+            margin-top: 160px;
+        }
+        .fa{
+            margin-left: 5px;
+        }
+        .heading h2{
+            padding-left:120px;
+        }
+        .education{
+            margin-left: 0px;
+            width: 250%;
+         
+        }
+        .skill{
+            margin-left: 0px;
+            width: 250%;
+            margin-top: 250px;
+         
+        }
+        .award{
+            margin-left: 0px;
+            width: 250%;
+         
+        }
+        .intern{
+            margin-left: 0px;
+            width: 250%;
+            margin-top: 200px;
+          
+        }
+        .langu{
+            margin-left: 0px;
+            width: 250%;
+            margin-top:40px;
+        }
+        .headings h2{
+            padding-left: 120px;
+        }
+        .heading1 h2{
+            padding-left: 120px;
+        }
+        label{
+            margin-left: 0px;
+        }
+        .contact-button{
+            margin-left:0px;
+        }
+
+    }
