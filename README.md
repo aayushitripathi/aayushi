@@ -9,5 +9,4 @@ The profile page is made using :
 1.HTML
 2.CSS
 
-This is how the profile page looks:
-![Profile Page] (/image/profilepage.png)
+
