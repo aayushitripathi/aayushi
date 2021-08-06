@@ -10,4 +10,4 @@ The profile page is made using :
 2.CSS
 
 This is how the profile page looks:
-![Profile Page] (/images/profilepage)
+![Profile Page] (/images/profilepage.png)
