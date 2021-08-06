@@ -1260,3 +1260,60 @@ grid-row:20/28;
             margin-top: 265px;
         }
     }
+    @media (max-width: 411px){
+     .foot{
+         display: none;
+     }
+     .about{
+         margin-left: 30px;
+     }
+     .data h2{
+         margin-top: 0px;
+     }
+     .data p{
+         font-size: 15px;
+     }
+    }
+    @media (max-width: 360px){
+        .skill{
+            margin-top: 350px;
+        }
+        .award{
+            margin-top: 150px;
+        }
+    }
+    @media (max-width: 375px){
+        .abt-container{
+            width: 100%;
+        }
+        .about{
+            margin-left: 80px;
+        }
+        .foot{
+            display: none;
+        }
+        .data{
+            width: 90%;
+        }
+        .about h2{
+            font-size: 20px;
+        }
+        .about p{
+            font-size: 20px;
+        }
+        .data p{
+            font-size: 13px;
+        }
+        .fa{
+            font-size: 10px;
+        }
+        .skill{
+            margin-top: 290px;
+        }
+        .award{
+            margin-top: 100px;
+        }
+        /* .skills{
+            padding-top: 300px;
+        } */
+    }
