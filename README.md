@@ -9,4 +9,6 @@ The profile page is made using :
 1.HTML
 2.CSS
 
+LIVE:
+https://aayushitripathi.github.io/profilepage/
 
